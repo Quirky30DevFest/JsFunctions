@@ -1,9 +1,5 @@
 # JsFunctions
 You should:
-* fork this repo
-* link your forked copy of the repo to the upstream repo to get changes easily 
-* To see how to do that have a look here: https://help.github.com/articles/syncing-a-fork/
-* regularly update from upstream to check for changes
 * use TDD
 	* start looking at [Qunit](http://qunitjs.com/) 
 	* From now on use Qunit 
